@@ -1,7 +1,7 @@
 import random
 import string
 
-paises = ['Italia', 'España', 'Alemania', 'Polonia', 'Brasil', 'Colombia', 'Bosnia', 'Turquía', 'Croacia', 'Argentina', 'Corea del sur', 'Suecia', 'Dinamarca', 'Qatar', 'Suiza', 'Estados Unidos', 'Camerún', 'Bélgica', 'Nigeria', 'Chile', 'Paraguay', 'Francia', 'Rusia', 'Costa de Marfil', 'Uruguay', 'Inglaterra', 'Portugal', 'Ghana', 'México', 'Hungría', 'Noruega', 'Holanda']
+paises = ['Italia', 'España', 'Alemania', 'Polonia', 'Brasil', 'Colombia', 'Bosnia', 'Turquia', 'Croacia', 'Argentina', 'Corea del sur', 'Suecia', 'Dinamarca', 'Ecuador', 'Suiza', 'Estados Unidos', 'Camerun', 'Belgica', 'Nigeria', 'Chile', 'Paraguay', 'Francia', 'Rusia', 'Peru', 'Uruguay', 'Inglaterra', 'Portugal', 'Ghana', 'Mexico', 'Hungria', 'Noruega', 'Holanda']
 
 '''
 
